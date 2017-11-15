@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Usman\ Khan\r\n
+comment1.params=
+comment1.target=Button()
+comment2.params=stateIn\ textIn
+comment2.target=Button(boolean,\ java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ buttonOff()
+comment5.params=
+comment5.target=void\ buttonOn()
+comment6.params=
+comment6.target=void\ buttonToggle()
+numComments=7

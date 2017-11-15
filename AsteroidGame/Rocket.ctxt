@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Rocket
+comment0.text=\r\n\ Code\ for\ rocket\ movement\r\n\ \r\n\ Usman\ Khan\ \r\n\ March\ 3,\ 2017\r\n
+comment1.params=
+comment1.target=Rocket()
+comment2.params=
+comment2.target=void\ bulletUpgrade()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=int\ getLives()
+comment5.params=
+comment5.target=int\ storeX()
+comment6.params=
+comment6.target=int\ storeY()
+numComments=7

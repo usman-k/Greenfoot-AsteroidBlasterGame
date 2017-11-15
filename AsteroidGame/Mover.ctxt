@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Mover
+comment0.text=\r\n\ Usman\ Khan\r\n
+comment1.params=
+comment1.target=Mover()
+comment2.params=direction
+comment2.target=Mover(int)
+comment3.params=speedIn
+comment3.target=Mover(double)
+comment4.params=direction\ speedIn
+comment4.target=Mover(int,\ double)
+comment5.params=
+comment5.target=void\ act()
+comment5.text=\r\n\ Act\ -\ do\ whatever\ the\ Mover\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment6.params=
+comment6.target=void\ moveSteadily()
+comment6.text=\r\n\ moveSteadily\ -\ Moves\ the\ Mover\ across\ the\ screen\ and\ wraps\ the\ movement\ \r\n\ across\ the\ edge\ of\ the\ screen\r\n
+comment7.params=speedIn
+comment7.target=void\ moveSteadily(int)
+comment7.text=\r\n\ moveSteadily\ -\ Moves\ the\ Mover\ across\ the\ screen\ and\ wraps\ the\ movement\ \r\n\ across\ the\ edge\ of\ the\ screen\r\n
+numComments=8
